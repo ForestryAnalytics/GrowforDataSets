@@ -1,4 +1,4 @@
-Regime,Age,TopHeight,Stocking,DBH,BA,AverageVolume,VolumePerHa,N/ha,DBH,BA,V/N,V/ha,€/ha,Tot Vol,€ Tot,N/ha,DBH,BA,V/N,V/ha,Tot Vol,CAI,CAI,MAI
+Regime,Age,TopHeight,Stocking,DBH,BA,AverageVolume,VolumePerHa,ThinStocking,ThinDBH,ThinBA,ThinAverageVolume,V/ha,ValuePerHectare,TotVol,€ Tot,UpdatedStocking,DBH,BA,V/N,V/ha,Tot Vol,CAI,MAI
 Regime A,27,17.7,1150,19.7,35.1,0.233,268,,,,,,,,,,,,,,,,9.9,
 Regime A,28,18.4,1140,20.5,37.7,0.262,298.7,,,,,,,,,,,,,,,30.7,10.7,
 Regime A,29,19.1,1130,21.3,40.2,0.292,329.7,,,,,,,,,,,,,,,31,11.4,
